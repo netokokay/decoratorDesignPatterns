@@ -1,0 +1,16 @@
+{
+  "name": "DesignPatternsFactoryMethod",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev":"ts-node-dev --respawn src/index.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "ts-node-dev": "^2.0.0"
+  },
+  "dependencies": {
+    "typescript": "^4.8.3"
+  }
+}
